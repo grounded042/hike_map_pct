@@ -8,8 +8,9 @@ if [[ `git status --porcelain` ]]; then
   # Changes
   git add .
   git commit -m "adding data for $DATE"
+  git push origin master
 else
   # No changes
-  echo "no changes on $DATE" >> log.txt
+  echo "no changes on $DATE"
 fi
 
