@@ -1,10 +1,11 @@
 #!/bin/bash
 
-source ./.env
+BASEDIR=$(dirname "$0")
 
-cd "$(dirname "$0")"
-DATE=`date +%Y-%m-%d:%H:%M:%S`
+source $BASEDIR/.env 
+cd $BASEDIR 
 
+DATE=`date +%Y-%m-%d:%H:%M:%S` 
 echo "======================================"
 echo "starting work for $DATE"
 echo "======================================"
