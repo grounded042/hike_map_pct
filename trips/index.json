@@ -33,5 +33,19 @@
 		"label": "Day 4",
 		"subLabel": "04/28/2018",
 		"detailsLocation": "details/Day 4.json"
+	},
+	{
+		"index": 5,
+		"id": "PDK_AviABeH59bhcvEkFuUk4xnY=",
+		"label": "Day 5",
+		"subLabel": "04/29/2018",
+		"detailsLocation": "details/Day 5.json"
+	},
+	{
+		"index": 6,
+		"id": "HjQ1BdBCXfhtZLrv_oGZXjqtmaI=",
+		"label": "Day 6",
+		"subLabel": "04/30/2018",
+		"detailsLocation": "details/Day 6.json"
 	}
 ]
