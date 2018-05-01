@@ -47,5 +47,12 @@
 		"label": "Day 6",
 		"subLabel": "04/30/2018",
 		"detailsLocation": "details/Day 6.json"
+	},
+	{
+		"index": 7,
+		"id": "BardkJVwcG0E6QCFVCS5uZSJSfs=",
+		"label": "Day 7",
+		"subLabel": "05/01/2018",
+		"detailsLocation": "details/Day 7.json"
 	}
 ]
