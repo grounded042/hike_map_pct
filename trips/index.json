@@ -54,5 +54,12 @@
 		"label": "Day 7",
 		"subLabel": "05/01/2018",
 		"detailsLocation": "details/Day 7.json"
+	},
+	{
+		"index": 8,
+		"id": "Anb_vPI23sy0w3bXxpLcQMEawy0=",
+		"label": "Day 8",
+		"subLabel": "05/02/2018",
+		"detailsLocation": "details/Day 8.json"
 	}
 ]
