@@ -159,5 +159,12 @@
 		"label": "Day 22",
 		"subLabel": "05/18/2018",
 		"detailsLocation": "details/Day 22.json"
+	},
+	{
+		"index": 23,
+		"id": "dkCYeTbbYZfD6FI3LhWDAcEDbzA=",
+		"label": "Day 23",
+		"subLabel": "05/19/2018",
+		"detailsLocation": "details/Day 23.json"
 	}
 ]
